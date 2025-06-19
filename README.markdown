@@ -33,7 +33,7 @@ This project implements a classic Snake game where players control the snake's m
 - **Responsive Design**: Built with Pygame for smooth rendering and asynchronous event handling using asyncio.
 - **Error Handling**: Manages webcam failures with user-friendly error messages.
 
-## Future Improvements
+## Further Improvements
 
 - Implement difficulty levels with adjustable snake speed.
 - Support multi-hand gestures for additional controls (e.g., pause, reset).

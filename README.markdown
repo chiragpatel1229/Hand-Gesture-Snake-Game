@@ -1,6 +1,6 @@
 # Hand-Gesture Controlled Snake Game
 
-A Python-based Snake game with real-time hand-gesture control using computer vision, built to demonstrate proficiency in image processing, real-time operations, and interactive application development.
+A Python-based Snake game with real-time hand-gesture control using computer vision, built for image processing, real-time operations, and interactive application development.
 
 ## Project Overview
 
@@ -15,7 +15,7 @@ This project implements a classic Snake game where players control the snake's m
 - **NumPy**: For efficient array operations.
 - **asyncio**: For non-blocking game loop execution.
 
-## Skills Developed
+## Project Structure
 
 - **Computer Vision**: Implemented real-time hand tracking and gesture recognition using MediaPipe and OpenCV.
 - **Image Processing**: Processed webcam frames for efficient rendering and gesture detection.
